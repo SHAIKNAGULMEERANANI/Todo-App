@@ -140,3 +140,16 @@ button{
     margin: 0px 10px;
     cursor: pointer;
 }
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    padding: 20px 20px;
+    position: fixed;
+    Width: 100%;
+    bottom: 0;
+}
